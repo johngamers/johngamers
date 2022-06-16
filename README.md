@@ -1,4 +1,4 @@
-- 👋 Olá meu nome é @johngamers
+- 👋 Olá meu nome é **@johngamers**
 - :+1: Meu email de contato é machado.john@escola.pr.gov.br
 - 👀 Eu estou interessado em linguagem de programação
 - 🌱 estou aprendendo atualmente em javaScriptch no p5js
